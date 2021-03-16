@@ -19,5 +19,6 @@ page_sections:
     enabled: false
     url: ''
     button_text: ''
+published: false
 
 ---
