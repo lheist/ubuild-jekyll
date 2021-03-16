@@ -2,8 +2,8 @@
 block: hero-2
 background_image: media/v1615891833/uploads/test01/2021/03/16/image1_bcozxj.png
 image:
-  image: ''
-  alt_text: ''
+  image: media/v1615891833/uploads/test01/2021/03/16/image1_bcozxj.png
+  alt_text: kein Apfel verfügbar
 headline: Das ist der Apfel von Kurt Jandl
 content: 'Auch die Wiener Gruppe ist eine Referenz. '
 cta:
@@ -12,3 +12,4 @@ cta:
   button_text: Funnel
 
 ---
+sadfsdf
